@@ -4,7 +4,7 @@ Es una API de Harry Potter en Español que devuelve información sobre hechizos,
 
 ## Cómo usar
 ```javascript
-	fetch("my-harry-potter-api.herokuapp.com/db")
+	fetch("http://fedeperin-harry-potter-api.herokuapp.com/db")
 		.then((res) => res.json())
 		.then((data) => {
 			console.log(data)
