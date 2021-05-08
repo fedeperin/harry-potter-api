@@ -1,0 +1,23 @@
+{
+  "name": "harry-potter-api",
+  "version": "1.0.0",
+  "description": "Una API de Harry Potter con distintos tipos de información",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedeperin/harry-potter-api.git"
+  },
+  "author": "fedeperin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedeperin/harry-potter-api/issues"
+  },
+  "homepage": "https://github.com/fedeperin/harry-potter-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
