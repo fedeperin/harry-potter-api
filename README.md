@@ -3,7 +3,7 @@
 Es una API de Harry Potter en Español que devuelve información sobre hechizos, personajes, e información en sí.
 
 ## Cómo usar
-Para usarlo solo copiá y pegá el siguiente código JavaScript en el JavaScript de tu web
+Para usarlo solo copiá y pegá el siguiente código JavaScript en el JavaScript de tu web o aplicación
 ```javascript
 fetch("https://fedeperin-harry-potter-api.herokuapp.com/db")
 	.then((res) => res.json())
@@ -14,7 +14,7 @@ fetch("https://fedeperin-harry-potter-api.herokuapp.com/db")
 	.catch((e) => console.log(e));
 ```
 ## Endpoints
-- /db trae todos los datos de la API
-- /hechizos trae solo los hechizos
-- /info trae solo la parte de información de la API
-- /personajes solo trae los personajes en la API
+- /db Trae toda la API
+- /hechizos Trae solo los hechizos almacenados en la API
+- /info Trae solo la parte de información de la API
+- /personajes Solo trae los personajes en la API
