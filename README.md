@@ -1,9 +1,13 @@
 # Harry Potter API
 
-Es una API de Harry Potter en Español que devuelve información sobre hechizos, personajes, e información en sí. Utilizé Node.js con json-server para crearla
+Es una API de Harry Potter en Español que retorna información sobre hechizos, personajes, e información en sí. Utilizé Node.js con json-server para crearla y la alojé en Heroku <br><br>
+
+Repositorio en GitHub de json-server: https://github.com/typicode/json-server <br>
+Descargar Node.js: https://nodejs.org/es/ <br>
+Página web de Heroku: https://heroku.com/
 
 ## Cómo usar
-Para usarlo solo copiá y pegá el siguiente código JavaScript en el JavaScript de tu web o aplicación
+Para usarlo solo copiá y pegá el siguiente código JavaScript en el JavaScript de tu web o aplicación <br>
 ```javascript
 fetch("https://fedeperin-harry-potter-api.herokuapp.com/db")
 	.then((res) => res.json())
@@ -13,6 +17,7 @@ fetch("https://fedeperin-harry-potter-api.herokuapp.com/db")
 	})
 	.catch((e) => console.log(e));
 ```
+O visitá la página principal de la API (que viene por defecto con json-server): https://fedeperin-harry-potter-api.herokuapp.com/
 ## Endpoints
 - https://fedeperin-harry-potter-api.herokuapp.com/db Trae toda la API
 - https://fedeperin-harry-potter-api.herokuapp.com/hechizos Trae solo los hechizos almacenados en la API
