@@ -1,10 +1,8 @@
 # Harry Potter API
 
-<<<<<<< HEAD
 Es una API Rest de Harry Potter en Español que retorna información sobre hechizos, personajes, libros e información en sí. Utilizé Node.js con json-server para crearla y la alojé en Heroku <br><br>
-=======
+
 Es una API Rest de Harry Potter en Español que retorna información sobre hechizos, personajes, e información en sí. Utilizé Node.js con json-server para crearla y la alojé en Heroku <br><br>
->>>>>>> b6536c5db3f20307f5ea427814b3bcd519190daf
 
 - Repositorio en GitHub de json-server: https://github.com/typicode/json-server <br>
 - Descargar Node.js: https://nodejs.org/es/ <br>
@@ -28,8 +26,10 @@ O visitá la página principal de la API (que viene por defecto con json-server)
 - https://fedeperin-harry-potter-api.herokuapp.com/db Trae toda la API
 - https://fedeperin-harry-potter-api.herokuapp.com/hechizos Trae solo los hechizos almacenados en la API
 - https://fedeperin-harry-potter-api.herokuapp.com/info Trae solo la parte de información de la API
-<<<<<<< HEAD
 - https://fedeperin-harry-potter-api.herokuapp.com/personajes Solo trae los personajes en la API
-=======
-- https://fedeperin-harry-potter-api.herokuapp.com/personajes Solo trae los personajes en la API
->>>>>>> b6536c5db3f20307f5ea427814b3bcd519190daf
+- https://fedeperin-harry-potter-api.herokuapp.com/libros Solo trae los libros en la API <br>
+--- 
+Si se quiere acceder a un elemento específico, solo hay que especificar el ID de ese elemento al final de la ruta<br>
+<h3>Ejemplos</h3>
+- Con la ruta https://fedeperin-harry-potter-api.herokuapp.com/libros/3 se accede solo al libro con ID 3 (el especificado al final de la ruta)
+- Con la ruta https://fedeperin-harry-potter-api.herokuapp.com/hechizos/10 se accede solo al hechizo con ID 10 (el especificado al final de la ruta)
