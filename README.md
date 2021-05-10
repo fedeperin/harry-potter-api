@@ -1,6 +1,10 @@
 # Harry Potter API
 
+<<<<<<< HEAD
 Es una API Rest de Harry Potter en Español que retorna información sobre hechizos, personajes, libros e información en sí. Utilizé Node.js con json-server para crearla y la alojé en Heroku <br><br>
+=======
+Es una API Rest de Harry Potter en Español que retorna información sobre hechizos, personajes, e información en sí. Utilizé Node.js con json-server para crearla y la alojé en Heroku <br><br>
+>>>>>>> b6536c5db3f20307f5ea427814b3bcd519190daf
 
 - Repositorio en GitHub de json-server: https://github.com/typicode/json-server <br>
 - Descargar Node.js: https://nodejs.org/es/ <br>
@@ -24,4 +28,8 @@ O visitá la página principal de la API (que viene por defecto con json-server)
 - https://fedeperin-harry-potter-api.herokuapp.com/db Trae toda la API
 - https://fedeperin-harry-potter-api.herokuapp.com/hechizos Trae solo los hechizos almacenados en la API
 - https://fedeperin-harry-potter-api.herokuapp.com/info Trae solo la parte de información de la API
+<<<<<<< HEAD
 - https://fedeperin-harry-potter-api.herokuapp.com/personajes Solo trae los personajes en la API
+=======
+- https://fedeperin-harry-potter-api.herokuapp.com/personajes Solo trae los personajes en la API
+>>>>>>> b6536c5db3f20307f5ea427814b3bcd519190daf
