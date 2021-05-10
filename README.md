@@ -4,7 +4,9 @@ Es una API Rest de Harry Potter en Español que retorna información sobre hechi
 
 - Repositorio en GitHub de json-server: https://github.com/typicode/json-server <br>
 - Descargar Node.js: https://nodejs.org/es/ <br>
-- Página web de Heroku: https://heroku.com/
+- Página web de Heroku: https://heroku.com/ <br>
+
+Si querés descargarlo, ejecutá por la terminal con node.js instalado  ``npm i json-server``
 
 ## Cómo usar
 Para usarlo solo copiá y pegá el siguiente código JavaScript en el JavaScript de tu web o aplicación <br>
