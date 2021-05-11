@@ -655,56 +655,64 @@
             "libro": "Harry Potter y la piedra filosofal",
             "titulo_original": "Harry Potter and the Sorcerer's Stone",
             "fecha_de_lanzamiento": "26 de junio de 1997",
-            "autora": "J. K. Rowling"
+            "autora": "J. K. Rowling",
+            "descripcion": "El día de su cumpleaños, Harry Potter descubre que es hijo de dos conocidos hechiceros, de los que ha heredado poderes mágicos. Debe asistir a una famosa escuela de magia y hechicería, donde entabla una amistad con dos jóvenes que se convertirán en sus compañeros de aventura. Durante su primer año en Hogwarts, descubre que un malévolo y poderoso mago llamado Voldemort está en busca de una piedra filosofal que alarga la vida de quien la posee."
         },
         {
             "id": 2,
             "libro": "Harry Potter y la cámara secreta",
             "titulo_original": "Harry Potter and the chamber of secrets",
             "fecha_de_lanzamiento": "2 de julio de 1998",
-            "autora": "J. K. Rowling"
+            "autora": "J. K. Rowling",
+            "descripcion": "Harry Potter y los estudiantes de segundo año investigan una malévola amenaza para sus compañeros de clases de Hogwarts, una amenazante bestia que se esconde dentro del castillo."
         },
         {
             "id": 3,
             "libro": "Harry Potter y el prisionero de Azkaban",
             "titulo_original": "Harry Potter and the Prisoner of Azkaban",
             "fecha_de_lanzamiento": "8 de julio de 1999",
-            "autora": "J. K. Rowling"
+            "autora": "J. K. Rowling",
+            "descripcion": "El tercer año de estudios de Harry en Hogwarts se ve amenazado por la fuga de Sirius Black de la prisión de Azkaban. Al parecer, se trata de un peligroso mago que fue cómplice de Lord Voldemort y que intentará vengarse de Harry Potter."
         },
         {
             "id": 4,
             "libro": "Harry Potter y el cáliz de fuego",
             "titulo_original": "Harry Potter and the Goblet of Fire",
             "fecha_de_lanzamiento": "8 de julio de 2000",
-            "autora": "J. K. Rowling"
+            "autora": "J. K. Rowling",
+            "descripcion": "Hogwarts se prepara para el Torneo de los Tres Magos, en el que competirán tres escuelas de hechicería. Para sorpresa de todos, Harry Potter es elegido para participar en la competencia, en la que deberá luchar contra dragones, internarse en el agua y enfrentarse a sus mayores miedos."
         },
         {
             "id": 5,
             "libro": "Harry Potter y la orden del Fénix",
             "titulo_original": "Harry Potter and the Order of the Phoenix",
             "fecha_de_lanzamiento": "21 de junio de 2003",
-            "autora": "J. K. Rowling"
+            "autora": "J. K. Rowling",
+            "descripcion": "En su quinto año en Hogwarts, Harry descubre que muchos integrantes de la comunidad de magos no conocen la verdad acerca de su encuentro con Lord Voldemort. Cornelius Fudge, ministro de magia, designa a Dolores Umbridge como maestra de defensa contra de las artes oscuras porque cree que el profesor Dumbledore planea apoderarse de su trabajo. Pero sus enseñanzas son inadecuadas, por lo que Harry prepara a los estudiantes para defender la escuela en contra del mal."
         },
         {
             "id": 6,
             "libro": "Harry Potter y el misterio del príncipe",
             "titulo_original": "Harry Potter and the Half-Blood Prince",
             "fecha_de_lanzamiento": "16 de julio de 2005",
-            "autora": "J. K. Rowling"
+            "autora": "J. K. Rowling",
+            "descripcion": "Harry descubre un poderoso libro y, mientras trata de descubrir sus orígenes, colabora con Dumbledore en la búsqueda de una serie de objetos mágicos que ayudarán en la destrucción de Lord Voldemort."
         },
         {
             "id": 7,
             "libro": "Harry Potter y las reliquias de la muerte",
             "titulo_original": "Harry Potter and the Deathly Hallows",
             "fecha_de_lanzamiento": "21 de julio de 2007",
-            "autora": "J. K. Rowling"
+            "autora": "J. K. Rowling",
+            "descripcion": "Harry, Ron y Hermione se van a una peligrosa misión para localizar y destruir el secreto de la inmortalidad y destrucción de Voldemort - los Horrocruces. Solos, sin la guía de sus profesores o la protección del Profesor Dumbledore, los tres amigos deben apoyarse el uno en el otro más que nunca. Pero hay Fuerzas Oscuras en medio que amenazan con separarlos. Harry Potter se está acercando cada vez más a la tarea para la que se ha preparado desde el primer día que pisó Hogwarts: la última batalla con Voldemort."
         },
         {
             "id": 8,
             "libro": "Harry Potter y el legado maldito",
             "titulo_original": "Harry Potter and the Cursed Child",
             "fecha_de_lanzamiento": "30 de julio de 2016",
-            "autora": "J. K. Rowling"
+            "autora": "J. K. Rowling",
+            "descripcion": "El segundo hijo de Harry entró a Hogwarts, pero en Slytherin. Su relación con Harry cada vez es peor y se hizo muy amigo del hijo de Draco, Scorpius Malfoy que se dice que es el hijo de Lord Voldemort"
         }
     ]
 }
