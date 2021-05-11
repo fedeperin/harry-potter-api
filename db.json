@@ -414,7 +414,8 @@
                 "James Sirius Potter",
                 "Albus Severus Potter",
                 "Lily Luna Potter"
-            ]
+            ],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/harry_potter.png"
         },
         {
             "id": 2,
@@ -426,7 +427,8 @@
             "hijos": [
                 "Rose Granger-Weasley",
                 "Hugo Granger-Weasley"
-            ]
+            ],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/hermione_granger.png"
         },
         {
             "id": 3,
@@ -438,7 +440,8 @@
             "hijos": [
                 "Rose Granger-Weasley",
                 "Hugo Granger-Weasley"
-            ]
+            ],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/ron_weasley.png"
         },
         {
             "id": 4,
@@ -447,7 +450,8 @@
             "estudianteDeHogwarts": true,
             "casaDeHogwarts": "Gryffindor",
             "interpretado_por": "James Phelps",
-            "hijos": []
+            "hijos": [],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/fred_weasley.png"
         },
         {
             "id": 5,
@@ -456,7 +460,8 @@
             "estudianteDeHogwarts": true,
             "casaDeHogwarts": "Gryffindor",
             "interpretado_por": "Oliver Phelps",
-            "hijos": []
+            "hijos": [],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/george_weasley.png"
         },
         {
             "id": 6,
@@ -465,7 +470,8 @@
             "estudianteDeHogwarts": true,
             "casaDeHogwarts": "Gryffindor",
             "interpretado_por": "Domhnall Gleeson",
-            "hijos": []
+            "hijos": [],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/bill_weasley.png"
         },
         {
             "id": 7,
@@ -474,7 +480,8 @@
             "estudianteDeHogwarts": true,
             "casaDeHogwarts": "Gryffindor",
             "interpretado_por": "Chris Rankin",
-            "hijos": []
+            "hijos": [],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/percy_weasley.png"
         },
         {
             "id": 8,
@@ -483,7 +490,8 @@
             "estudianteDeHogwarts": true,
             "casaDeHogwarts": "Gryffindor",
             "interpretado_por": "ninguno",
-            "hijos": []
+            "hijos": [],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/charlie_weasley.png"
         },
         {
             "id": 9,
@@ -496,7 +504,8 @@
                 "James Sirius Potter",
                 "Albus Severus Potter",
                 "Lily Luna Potter"
-            ]
+            ],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/ginny_weasley.png"
         },
         {
             "id": 10,
@@ -513,7 +522,8 @@
                 "Percy Weasley",
                 "Charlie Weasley",
                 "Ginny Weasley"
-            ]
+            ],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/molly_weasley.png"
         },
         {
             "id": 11,
@@ -530,7 +540,8 @@
                 "Percy Weasley",
                 "Charlie Weasley",
                 "Ginny Weasley"
-            ]
+            ],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/arthur_weasley.png"
         },
         {
             "id": 12,
@@ -539,7 +550,8 @@
             "estudianteDeHogwarts": true,
             "casaDeHogwarts": "Gryffindor",
             "interpretado_por": "Matthew Lewis",
-            "hijos": []
+            "hijos": [],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/neville_longbottom.png"
         },
         {
             "id": 13,
@@ -548,7 +560,8 @@
             "estudianteDeHogwarts": true,
             "casaDeHogwarts": "Ravenclaw",
             "interpretado_por": "Evanna Lynch",
-            "hijos": []
+            "hijos": [],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/luna_lovegood.png"
         },
         {
             "id": 14,
@@ -559,7 +572,8 @@
             "interpretado_por": "Tom Felton",
             "hijos": [
                 "Scorpius Malfoy"
-            ]
+            ],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/draco_malfoy.png"
         },
         {
             "id": 15,
@@ -568,7 +582,8 @@
             "estudianteDeHogwarts": true,
             "casaDeHogwarts": "Gryffindor",
             "interpretado_por": "Richard Harris",
-            "hijos": []
+            "hijos": [],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/albus_dumbledore.png"
         },
         {
             "id": 16,
@@ -577,7 +592,8 @@
             "estudianteDeHogwarts": true,
             "casaDeHogwarts": "Gryffindor",
             "interpretado_por": "Maggie Smith",
-            "hijos": []
+            "hijos": [],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/minerva_mcgonnagall.png"
         },
         {
             "id": 17,
@@ -588,7 +604,8 @@
             "interpretado_por": "David Thewils",
             "hijos": [
                 "Ted Lupin"
-            ]
+            ],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/remus_lupin.png"
         },
         {
             "id": 18,
@@ -597,7 +614,8 @@
             "estudianteDeHogwarts": true,
             "casaDeHogwarts": "Gryffindor",
             "interpretado_por": "Robbie Coltrane",
-            "hijos": []
+            "hijos": [],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/rubeus_hagrid.png"
         },
         {
             "id": 19,
@@ -606,7 +624,8 @@
             "estudianteDeHogwarts": true,
             "casaDeHogwarts": "Gryffindor",
             "interpretado_por": "Gary Oldman",
-            "hijos": []
+            "hijos": [],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/sirius_black.png"
         },
         {
             "id": 20,
@@ -615,7 +634,8 @@
             "estudianteDeHogwarts": true,
             "casaDeHogwarts": "Slytherin",
             "interpretado_por": "Alan Rickman",
-            "hijos": []
+            "hijos": [],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/severus_snape.png"
         },
         {
             "id": 21,
@@ -626,7 +646,8 @@
             "interpretado_por": "Helena Bonham Carter",
             "hijos": [
                 "Delphi"
-            ]
+            ],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/bellatrix_lestrange.png"
         },
         {
             "id": 22,
@@ -637,7 +658,8 @@
             "interpretado_por": "Ralph Fiennes",
             "hijos": [
                 "Delphi"
-            ]
+            ],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/lord_voldemort.png"
         },
         {
             "id": 23,
@@ -646,7 +668,8 @@
             "estudianteDeHogwarts": false,
             "casaDeHogwarts": "ninguna",
             "interpretado_por": "David Bradley",
-            "hijos": []
+            "hijos": [],
+            "imagen": "https://fedeperin-harry-potter-api.herokuapp.com/imagenes/argus_filch.png"
         }
     ],
     "libros": [
