@@ -33,3 +33,6 @@ Si se quiere acceder a un elemento específico, solo hay que especificar el ID d
 #### Ejemplos: 
 - Con la ruta https://fedeperin-harry-potter-api.herokuapp.com/libros/3 se accede solo al libro con ID 3 (el especificado al final de la ruta).<br>
 - Con la ruta https://fedeperin-harry-potter-api.herokuapp.com/hechizos/10 se accede solo al hechizo con ID 10 (el especificado al final de la ruta.
+
+---
+Versión en Ingés: https://github.com/fedeperin/harry-potter-api-english/
