@@ -27,7 +27,7 @@ O visitá la página principal de la API (que viene por defecto con json-server)
 - https://fedeperin-harry-potter-api.herokuapp.com/hechizos Trae solo los hechizos almacenados en la API
 - https://fedeperin-harry-potter-api.herokuapp.com/info Trae solo la parte de información de la API
 - https://fedeperin-harry-potter-api.herokuapp.com/personajes Solo trae los personajes en la API
-- https://fedeperin-harry-potter-api.herokuapp.com/libros Solo trae los libros en la API <br>
+- https://fedeperin-harry-potter-api.herokuapp.com/libros Solo trae la información sobre libros en la API <br>
 --- 
 Si se quiere acceder a un elemento específico, solo hay que especificar el ID de ese elemento al final de la ruta<br>
 #### Ejemplos: 
