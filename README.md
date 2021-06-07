@@ -16,7 +16,7 @@ Para usarlo solo copiá y pegá el siguiente código JavaScript en el JavaScript
 fetch("https://fedeperin-harry-potter-api.herokuapp.com/db")
 	.then((res) => res.json())
 	.then((data) => {
-		// Trae todos los datos de la API y los muestra por consola
+		// Trae todos los datos de la API y los muestra por la consola
 		console.log(data)
 	})
 	.catch((e) => console.log(e));
