@@ -6,7 +6,7 @@ Es una API Rest sobre Harry Potter en Español que retorna información sobre he
 
 - Repositorio en GitHub de json-server: https://github.com/typicode/json-server <br>
 - Descargar Node.js: https://nodejs.org/es/ <br>
-- Página web del hosting: https://heroku.com/ <br>
+- Página web del hosting que utlizé: https://heroku.com/ <br>
 
 Si querés descargarlo, ejecutá por la terminal con node.js instalado  ``npm i json-server``
 
