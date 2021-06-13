@@ -10,7 +10,7 @@ Es una API Rest sobre Harry Potter en Español que retorna información sobre he
 
 Si querés descargarlo, ejecutá por la terminal con node.js instalado  ``npm i json-server``
 
-## Cómo usar
+## Cómo incorporar
 Para usarlo solo copiá y pegá el siguiente código JavaScript en el JavaScript de tu web o aplicación <br>
 ```javascript
 fetch("https://fedeperin-harry-potter-api.herokuapp.com/db")
