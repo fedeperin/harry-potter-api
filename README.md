@@ -11,7 +11,9 @@ Si querés descargarlo, ejecutá por tu terminal con node.js instalado  ``npm i 
 ## Cómo incorporar
 Para usarla, solo copiá y pegá el siguiente código JavaScript en el JavaScript de tu web o aplicación <br>
 ```javascript
-fetch("https://fedeperin-harry-potter-api.herokuapp.com/db")
+const url = "https://fedeperin-harry-potter-api.herokuapp.com/db"
+
+fetch(url)
 	.then((res) => res.json())
 	.then((data) => {
 		// Trae todos los datos de la API y los muestra por la consola
