@@ -9,7 +9,7 @@ Una API rest sobre Harry Potter en Español que retorna información sobre hechi
 Si querés descargarlo, ejecutá por tu terminal con node.js instalado  ``npm i json-server`` para instalar json-server
 
 ## Cómo incorporar
-Para usarla, solo copiá y pegá el siguiente código JavaScript en el JavaScript de tu web o aplicación. Eso retornará los datos almacenados el el endpoint "db" <br>
+Para usarla, solo copiá y pegá el siguiente código JavaScript en el JavaScript de tu web o aplicación. Eso retornará los datos almacenados el el endpoint "db". Para cambiar el endpoint, solo cambiar el valor de ``url`` por otro endpoint. <br>
 ```javascript
 const url = "https://fedeperin-harry-potter-api.herokuapp.com/db"
 
