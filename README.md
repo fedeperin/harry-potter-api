@@ -1,4 +1,4 @@
-# API de Harry Potter
+# API Harry Potter
 
 Una API rest sobre Harry Potter en Español que retorna información sobre hechizos, personajes, libros e información en sí. Utilizé node js con json-server como única dependencia para crearla y la alojé en Heroku <br><br>
 
