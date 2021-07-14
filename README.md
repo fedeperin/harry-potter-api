@@ -31,8 +31,8 @@ O visitá la página principal de la API (que viene por defecto con json-server)
 --- 
 Si se quiere acceder a un elemento específico, solo hay que especificar el ID de ese elemento al final de la ruta<br>
 #### Ejemplos: 
-- Con la ruta https://fedeperin-harry-potter-api.herokuapp.com/libros/3 se accede solo al libro con ID 3 (el especificado al final de la ruta).<br>
-- Con la ruta https://fedeperin-harry-potter-api.herokuapp.com/hechizos/10 se accede solo al hechizo con ID 10 (el especificado al final de la ruta.
+- Con la ruta https://fedeperin-harry-potter-api.herokuapp.com/libros/3 se accede solo al libro con id 3 (el especificado al final de la ruta).<br>
+- Con la ruta https://fedeperin-harry-potter-api.herokuapp.com/hechizos/10 se accede solo al hechizo con id 10 (el especificado al final de la ruta.
 
 ---
 Repositorio de la versión de la API en Inglés: https://github.com/fedeperin/harry-potter-api-english/
