@@ -19,7 +19,7 @@ fetch(url)
 		// Trae todos los datos de la API y los muestra por la consola
 		console.log(data)
 	})
-	.catch((e) => console.log(e));
+	.catch((e) => console.log(e))
 ```
 O visitá la página principal de la API (que viene por defecto con json-server): https://fedeperin-harry-potter-api.herokuapp.com/
 ## Endpoints
