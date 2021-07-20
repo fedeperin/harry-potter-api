@@ -16,7 +16,10 @@ const url = "https://fedeperin-harry-potter-api.herokuapp.com/db"
 fetch(url)
 	.then((res) => res.json())
 	.then((data) => {
-		// Trae todos los datos de la API y los muestra por consola
+		/*
+			Trae toda la info de la API y la deja dentro de la variable data
+			También muestra data por consola
+		*/
 		console.log(data)
 	})
 	.catch((e) => console.log(e))
