@@ -24,7 +24,7 @@ fetch(url)
 	})
 	.catch((e) => console.log(e))
 ```
-O visitá la página principal de la API (que viene por defecto con json-server): https://fedeperin-harry-potter-api.herokuapp.com/
+O visitá la página principal de la API (que viene por defecto con json-server): https://fedeperin-harry-potter-api.herokuapp.com/ <br>
 ## Endpoints
 - https://fedeperin-harry-potter-api.herokuapp.com/db Trae toda la API
 - https://fedeperin-harry-potter-api.herokuapp.com/hechizos Trae solo los hechizos almacenados en la API
