@@ -4,7 +4,7 @@ Una API Rest sobre Harry Potter en Español que retorna información sobre hechi
 
 * Repositorio en GitHub del paquete json-server: https://github.com/typicode/json-server <br>
 * Instalar Node.js: https://nodejs.org/ <br>
-* Página web del hosting que utilizé: https://heroku.com/ <br>
+* Página web de heroku: https://heroku.com/ <br>
 
 Si querés descargarlo, ejecutá por tu terminal con node.js instalado  ``npm i json-server`` para instalar json-server
 
