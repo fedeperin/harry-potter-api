@@ -18,7 +18,7 @@ fetch(url)
 	.then((data) => {
 		/*
 			Trae toda la info de la API y la deja dentro de la variable data
-			También muestra data por consola
+			También muestra la variable data por consola
 		*/
 		console.log(data)
 	})
