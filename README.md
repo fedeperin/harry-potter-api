@@ -38,4 +38,4 @@ Si se quiere acceder a un elemento específico, solo hay que especificar el ID d
 - Con la ruta https://fedeperin-harry-potter-api.herokuapp.com/hechizos/10 se accede solo al hechizo con ID 10 (el especificado al final de la ruta.
 
 ---
-La versión de esta API en Inglés: https://github.com/fedeperin/harry-potter-api-english/
+Versión de esta API en Inglés: https://github.com/fedeperin/harry-potter-api-english/
