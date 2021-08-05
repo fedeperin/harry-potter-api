@@ -6,7 +6,7 @@ Una API Rest sobre Harry Potter en Español que retorna información sobre hechi
 * Instalar Node.js: https://nodejs.org/ <br>
 * Página web de Heroku: https://heroku.com/ <br><br>
 
-Si la querés instalar, ejecutá ``npm i json-server`` para instalar json-server en el preyecto
+Si la querés instalar, ejecutá ``npm i json-server`` para instalar json-server en el proyecto
 
 ## Cómo incorporar
 Para usarla, solo copiá y pegá el siguiente código JavaScript en el código de tu web o aplicación que utilize ese lenguaje. Eso retornará los datos almacenados el el endpoint "db" y los almacenará dentro de la variable data. Para cambiar el endpoint, solo cambiar el valor de ``url`` por otro endpoint de la API. <br>
