@@ -1,6 +1,6 @@
-# IMPORTANT
-Sometimes Heroku Server stop working
-Please use the following main route: https://harry-potter-api-production.up.railway.app/hechizos
+# IMPORTANTE
+A veces el servidor en heroku deja de correr. Otra ruta principal que se puede usar es https://harry-potter-api-production.up.railway.app/ <br>
+(también se puede usar cuando Heroku funcione)
 
 # Harry Potter API
 
