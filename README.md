@@ -1,3 +1,7 @@
+# IMPORTANT
+Sometimes Heroku Server stop working
+Please use the following main route: https://harry-potter-api-production.up.railway.app/hechizos
+
 # Harry Potter API
 
 Una API Rest sobre Harry Potter en Español que retorna información sobre hechizos, personajes, libros e información en sí. Usé Node.js con json-server como su única dependencia para crearla y la alojé en Heroku. <br><br>
