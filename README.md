@@ -1,5 +1,5 @@
 # IMPORTANTE
-A veces el servidor en heroku deja de correr. Otra ruta principal que se puede usar es https://harry-potter-api-production.up.railway.app/ <br>
+A veces el servidor en heroku deja de correr. Otra ruta principal que se puede usar es https://harry-potter-api.onrender.com/ <br>
 (también se puede usar cuando Heroku funcione)
 
 # Harry Potter API
