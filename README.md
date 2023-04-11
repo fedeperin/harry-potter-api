@@ -24,7 +24,7 @@ fetch(url)
 	})
 	.catch((e) => console.log(e))
 ```
-O visitá la página principal de la API (que viene por defecto con json-server): https://harry-potter-api.onrender.com.com/ <br>
+O visitá la página principal de la API (que viene por defecto con json-server): https://harry-potter-api.onrender.com/ <br>
 
 ## Endpoints
 - https://harry-potter-api.onrender.com/db Trae toda la API
