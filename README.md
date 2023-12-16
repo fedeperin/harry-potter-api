@@ -1,6 +1,6 @@
 # Harry Potter API
 > [!IMPORTANT]  
-> [PotterAPI](https://github.com/fedeperin/potterapi) es una nueva versión de esta API, disponible en varios idiomas, actualizada y hecha con Express.js, recomiendo usar esa
+> [PotterAPI](https://github.com/fedeperin/potterapi) es una nueva versión de esta API, disponible en varios idiomas, actualizada y hecha con Express.js, recomiendo usar esa en vez de esta.
 
 Una API Rest sobre Harry Potter en Español que retorna información sobre hechizos, personajes, libros e información en sí. Usé Node.js con json-server como su única dependencia para crearla y la alojé en Render. <br><br>
 
