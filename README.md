@@ -1,4 +1,6 @@
 # Harry Potter API
+> [!IMPORTANT]  
+> [PotterAPI](https://github.com/fedeperin/potterapi) es una nueva versión de esta API, disponible en varios idiomas, actualizada y hecha con Express.js, recomiendo usar esa
 
 Una API Rest sobre Harry Potter en Español que retorna información sobre hechizos, personajes, libros e información en sí. Usé Node.js con json-server como su única dependencia para crearla y la alojé en Render. <br><br>
 
@@ -7,7 +9,6 @@ Una API Rest sobre Harry Potter en Español que retorna información sobre hechi
 * Página web de Render: https://render.com/ <br><br>
 
 Si la querés instalar, ejecutá ``npm i json-server`` para instalar json-server en el proyecto
-
 ## Cómo incorporar
 Para usarla, solo copiá y pegá el siguiente código JavaScript en el código de tu web o aplicación que utilize ese lenguaje. Eso retornará los datos almacenados el el endpoint "db" y los almacenará dentro de la variable data. Para cambiar el endpoint, solo cambiar el valor de ``url`` por otro endpoint de la API. <br>
 ```javascript
